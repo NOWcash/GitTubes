@@ -1,0 +1,16 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "targets": {
+          "chrome": "96",
+          "node": 16
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties"
+  ]
+}
