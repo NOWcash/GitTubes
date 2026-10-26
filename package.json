@@ -62,7 +62,7 @@
     "lodash.debounce": "^4.0.8",
     "lodash.isequal": "^4.5.0",
     "marked": "^4.1.1",
-    "nedb-promises": "^6.2.1",
+    "nedb-promises": "^6.2.4",
     "opml-to-json": "^1.0.1",
     "process": "^0.11.10",
     "socks-proxy-agent": "^6.0.0",
